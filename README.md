@@ -1,6 +1,7 @@
 # Hi, I'm Sergio Escobedo 👋
 
 **Software Developer | .NET · SQL Server · Manufacturing Systems (MES)**
+
 📍 Comarca Lagunera, Mexico · Open to remote roles
 
 I build and modernize the software that runs manufacturing plants: MES integrations, SQL Server backends, and web apps used every day on the production floor. I have 7 years of experience in industrial IT, working with automotive suppliers.
